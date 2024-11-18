@@ -135,6 +135,10 @@ else:
         }
     }
 
+# DATABASES = {
+#         'default': dj_database_url.parse('postgres://ualmvha4ifk:JQRkraPzPaTJ@ep-gentle-mountain-a23bxz6h-pooler.eu-central-1.aws.neon.tech/voter_skies_grope_91457')
+#     }
+
 
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
